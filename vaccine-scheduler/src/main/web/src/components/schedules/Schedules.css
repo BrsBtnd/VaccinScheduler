@@ -1,0 +1,25 @@
+.schedules-table-style {
+  margin-bottom: 0px;
+}
+
+.schedules-card-header {
+  text-align: center;
+}
+
+#upcoming-schedules-card-header { 
+  display: flex;
+  justify-content: space-between;
+}
+
+.upcoming-schedules-card-title { 
+  margin: 0 auto;
+}
+
+.schedules-card {
+  margin-bottom: 4vw;
+}
+
+#upcomming-schedules-button {
+  padding: 0px 5px 0px 5px;
+  margin: 0px;
+}

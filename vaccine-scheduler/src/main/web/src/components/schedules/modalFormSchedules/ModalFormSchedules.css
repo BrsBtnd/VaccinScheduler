@@ -1,0 +1,11 @@
+.modal-form-schedule-button {
+  background-color: #6495ed;
+  border-color: #6495ed;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 50%);
+}
+
+.modal-form-schedule-body {
+  padding-bottom: 2rem;
+}

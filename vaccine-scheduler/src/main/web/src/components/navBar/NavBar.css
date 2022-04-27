@@ -1,0 +1,15 @@
+#nav-link {
+  color: #6495ed;
+  margin-left: 3vw;
+}
+
+#button-container-style { 
+  justify-content: flex-end;
+  align-items: center;
+  display: flex;
+  margin-right: 4vw;
+}
+
+.navbar-style {
+  flex-wrap: nowrap;
+}

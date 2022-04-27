@@ -1,0 +1,33 @@
+vaccine scheduler
+login
+entities
+repositories
+user role: admin, user
+vaccine centers
+available vaccine centers
+vaccine types
+mockito
+controllers
+http:   requests
+        response
+
+db see in the scripts
+
+user/1/schedule/1
+
+controllers take the request, do the validation and manage which service(s) calls need to be sent
+service(s) does the actual work, complete the tasks/request, return the completed response to the manager
+
+unit test tests only one unit(logic) in the program, means that we test only those methods that aren't call anothor
+methods inside
+
+@MockBean
+junit jupiter(5)
+@Before ------>     @BeforeEach
+@BeforeClass -----> @BeforeAll
+
+
+integration test
+@AutorwireMockMvc
+MockMvc
+

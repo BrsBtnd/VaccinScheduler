@@ -1,0 +1,13 @@
+.offcanvas-body {
+  display: flex;
+  justify-content: center;
+}
+
+.create-account-button {
+  background-color: #6495ed;
+  border-color: #6495ed;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  padding: 10px 15px;
+}
